@@ -2,111 +2,776 @@
  {
   "key": "q07-4599825672-r07",
   "file": "pins/pin-q07-4599825672-r07-1000x1500.png",
-  "sha256": "4a7d46686029c9dbe6ebb8d1586d2169c3317c0a35ce7e2b5c4c92202525d0a8"
+  "sha256": "4a7d46686029c9dbe6ebb8d1586d2169c3317c0a35ce7e2b5c4c92202525d0a8",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q07-4599825672-r07-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "An ADHD brain dump printable: a full page of lines to get everything out of your head with no organizing and no judging, then mark each one now, soon or someday. Comes with a Make it small page for breaking big tasks into 2-minute steps. US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q07-4599825672-r07-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Head too loud? Put it on paper. It shows the listing photo: The same part of the Brain dump page twice: blank as downloaded, and with example handwriting added to show use."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Brain Dump Printable - Capture First, Sort into Now, Soon, Someday",
+     "url": "https://www.etsy.com/listing/4599825672/adhd-brain-dump-printable-brain-dump",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  },
+  "create_response": {
+   "__typename": "PostActionSuccess",
+   "post": {
+    "id": "6ae0ecafa7712201c2180528",
+    "status": "scheduled"
+   }
+  },
+  "post_id": "6ae0ecafa7712201c2180528",
+  "dueAt": "2026-10-28T01:56:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q08-4599801275-r06",
   "file": "pins/pin-q08-4599801275-r06-1000x1500.png",
-  "sha256": "e4f676a37ae6e28e41a5f46b46282cb6b0703eb08f0d0dd2d0908c7bade4fc48"
+  "sha256": "e4f676a37ae6e28e41a5f46b46282cb6b0703eb08f0d0dd2d0908c7bade4fc48",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q08-4599801275-r06-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "An ADHD habit tracker printable: a 31-day grid for 3 to 8 tiny habits, where a missed day is just blank, not a broken streak. Comes with a routine builder that hangs routines on anchors like after coffee instead of clock times. Undated, US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q08-4599801275-r06-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Missed a day? It's blank, not broken. It shows the listing photo: Close-up of the blank Habit tracker page: a 31-day grid for 3 to 8 habits, with room for handwriting."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Habit Tracker Printable - Monthly Grid Where Missed Days Are Blank, Not Broken",
+     "url": "https://www.etsy.com/listing/4599801275/adhd-habit-tracker-printable-monthly",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  },
+  "post_id": "6ae0ecc32d4e3ce4bcb10e65",
+  "dueAt": "2026-10-28T18:18:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q09-4599801121-r08",
   "file": "pins/pin-q09-4599801121-r08-1000x1500.png",
-  "sha256": "d4f2376dd7d9d4d8529571e0b421c247728302021974fa9d79c517e85cfd5abe"
+  "sha256": "d4f2376dd7d9d4d8529571e0b421c247728302021974fa9d79c517e85cfd5abe",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q09-4599801121-r08-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "An undated ADHD weekly planner printable that starts with how you want to feel, then three goals for the week, with everything else optional. One checkbox per day means the whole day counts. Comes with a gentle 15-minute weekly review page. US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q09-4599801121-r08-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Start the week with how you want to feel. It shows the listing photo: Detail of the This week's game plan page: start with how you want to feel. Example handwriting added."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Weekly Planner Printable - Top 3 Goals and a Weekly Intention",
+     "url": "https://www.etsy.com/listing/4599801121/adhd-weekly-planner-printable-undated",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  },
+  "post_id": "6ae0ecc651de1fce7dcf5ebe",
+  "dueAt": "2026-10-28T19:27:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q10-4599825170-r09",
   "file": "pins/pin-q10-4599825170-r09-1000x1500.png",
-  "sha256": "8faf2d125b679363b38664a8be38dcade2369f8a909f0556d4cfc2f8cc6db50a"
+  "sha256": "8faf2d125b679363b38664a8be38dcade2369f8a909f0556d4cfc2f8cc6db50a",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q10-4599825170-r09-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "A Must / Should / Could sorter for days when everything feels urgent: max 2 musts, shoulds can move, and could is the guilt-free zone. Comes with an ADHD daily focus page with a Top 3 and a reward column on every task. Undated, US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q10-4599825170-r09-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Must, should, could: sort the urgent pile. It shows the listing photo: The blank Must \u00b7 Should \u00b7 Could page, page 2 of 2, as it appears in the download."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Must Should Could Printable - ADHD Prioritization Sorter for Overwhelming Days",
+     "url": "https://www.etsy.com/listing/4599825170/adhd-to-do-list-printable-daily-focus",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  },
+  "post_id": "6ae0ecc8229a249d534a34c1",
+  "dueAt": "2026-10-29T18:18:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q11-4598982254-r07",
   "file": "pins/pin-q11-4598982254-r07-1000x1500.png",
-  "sha256": "a02f5e13401e81c328e3102273e39c351f10e0efe6cea8aae650e56bc56de7c5"
+  "sha256": "a02f5e13401e81c328e3102273e39c351f10e0efe6cea8aae650e56bc56de7c5",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q11-4598982254-r07-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Etsy profit tracker spreadsheet: paste your Etsy orders export and each order shows the transaction fee, processing fee, listing renewal and Offsite Ads deducted along with cost of goods, for true profit per order, per product and per month. Excel + Google Sheets. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q11-4598982254-r07-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed What did that Etsy order actually make?. It shows the listing photo: One fictional order traced from the pasted Etsy CSV row to the Sales tab, where Etsy fees, cost of goods and the shipping label are deducted to give $24.25 true profit."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Etsy Profit Tracker - See True Profit per Order After Every Etsy Fee",
+     "url": "https://www.etsy.com/listing/4598982254/etsy-seller-profit-tracker-schedule-c",
+     "boardServiceId": "1126392625493661743"
+    }
+   }
+  },
+  "post_id": "6ae0eccad7b92f839146a194",
+  "dueAt": "2026-10-30T01:59:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q12-4598958139-r09",
   "file": "pins/pin-q12-4598958139-r09-1000x1500.png",
-  "sha256": "09868907f807819f1b6be4f6aaa7cca1aa6a39476618c3435c49fe77c67a9c69"
+  "sha256": "09868907f807819f1b6be4f6aaa7cca1aa6a39476618c3435c49fe77c67a9c69",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q12-4598958139-r09-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Should you offer free shipping on Etsy? Type the same item twice, once charging shipping and once free, and this Etsy fee calculator shows the true profit of each after every Etsy fee, cost of goods and the label. Excel + Google Sheets. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q12-4598958139-r09-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Is free shipping eating your profit?. It shows the listing photo: Free-shipping test: the same fictional $28.00 linen tote typed twice, identical except shipping, once charging shipping ($15.59 true profit) and once with free shipping ($10.21)."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Etsy Free Shipping Calculator - Compare True Profit With and Without Shipping",
+     "url": "https://www.etsy.com/listing/4598958139/etsy-fee-profit-calculator-offsite-ads",
+     "boardServiceId": "1126392625493661743"
+    }
+   }
+  },
+  "post_id": "6ae0eccca7712201c2180b1c",
+  "dueAt": "2026-10-30T18:18:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q13-4598958151-r07",
   "file": "pins/pin-q13-4598958151-r07-1000x1500.png",
-  "sha256": "c21d145f7c00801ec5b03f9e1ec5fefa40a6720d4b1ebab434b590462530eb70"
+  "sha256": "c21d145f7c00801ec5b03f9e1ec5fefa40a6720d4b1ebab434b590462530eb70",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q13-4598958151-r07-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "KDP royalty calculator for self-published authors: type each title's list price and file size and see royalty per copy on the 70% and 35% options, delivery cost included, and which option pays more. Amazon raised the 70% ceiling to $12.99 in July 2026, so older prices may be worth a look. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q13-4598958151-r07-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Is your book on the wrong royalty option?. It shows the listing photo: One example title (a $12.99, 3.5 MB box set on the 35% option, 45 copies) traced from its inputs to the formulas: $8.72 a copy on 70% versus $4.55 on 35%, $187.65 left on the table."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "KDP Royalty Calculator - Check 70% vs 35% Royalty for Every Ebook",
+     "url": "https://www.etsy.com/listing/4598958151/kdp-royalty-calculator-spreadsheet-ebook",
+     "boardServiceId": "1126392625493661745"
+    }
+   }
+  },
+  "post_id": "6ae0ecce51de1fce7dcf603c",
+  "dueAt": "2026-10-30T21:00:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q14-4599081750-r03",
   "file": "pins/pin-q14-4599081750-r03-1000x1500.png",
-  "sha256": "0e042e5fea42c1a994ee142f2e0d1d9084fe48b239afca5dddcaf433d63c5a14"
+  "sha256": "0e042e5fea42c1a994ee142f2e0d1d9084fe48b239afca5dddcaf433d63c5a14",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q14-4599081750-r03-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Every page of a 36-page printable ADHD planner for adults: daily, weekly and monthly pages, an executive function toolkit, wellbeing pages and free space, all undated so you can start any day. Includes a dopamine menu, brain dump pages and a habit tracker. US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q14-4599081750-r03-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Every page you get, all undated. It shows the listing photo: Every one of the 36 planner pages as numbered thumbnails: cover, welcome, daily, weekly, monthly, EF toolkit, wellbeing and free space sections, and a closing page."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Planner Printable for Adults - All 36 Undated Pages at a Glance",
+     "url": "https://www.etsy.com/listing/4599081750/adhd-planner-for-adults-undated-daily",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  },
+  "post_id": "6ae0ecd1a7712201c2180bda",
+  "dueAt": "2026-10-31T18:18:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q15-4602442715-r12",
   "file": "pins/pin-q15-4602442715-r12-1000x1500.png",
-  "sha256": "9a659029348d074394d0a65328955f1ff7bd3888d5846bdf60e14073d6c0b370"
+  "sha256": "9a659029348d074394d0a65328955f1ff7bd3888d5846bdf60e14073d6c0b370",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q15-4602442715-r12-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "A printable custom cake quote with your bakery name and contact line at the top. Type them once and every quote from this bakery pricing spreadsheet carries them, with the agreed total and the price per unit. Internal costs and actuals stay on the Order sheet, not the printed quote. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q15-4602442715-r12-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Send quotes under your own bakery name. It shows the listing photo: Bakery details cells with a fictional bakery name and contact line, and the printed quote page showing them as its heading."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Custom Cake Quote Template for Cottage Bakers - Printable Quote Under Your Bakery Name",
+     "url": "https://www.etsy.com/listing/4602442715/bakery-pricing-spreadsheet-custom-order",
+     "boardServiceId": "1126392625493679311"
+    }
+   }
+  },
+  "post_id": "6ae0ecd351de1fce7dcf619a",
+  "dueAt": "2026-11-01T04:46:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q16-4601942684-r08",
   "file": "pins/pin-q16-4601942684-r08-1000x1500.png",
-  "sha256": "cc993af1df75866c60ea4d51858216df0840a71b289da8d856764457519cbebd"
+  "sha256": "cc993af1df75866c60ea4d51858216df0840a71b289da8d856764457519cbebd",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q16-4601942684-r08-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Debt payoff tracker in a household budget spreadsheet: enter the balance, annual rate and monthly payment for one fixed-rate debt and see interest, payment and ending balance month by month. Also includes 12 sinking funds and a cash flow timeline. Designed for Excel desktop, no macros. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q16-4601942684-r08-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed See your debt paid down month by month. It shows the listing photo: Example debt projection on the Debt tab: starting balance 1,200.00, annual rate 19.9%, monthly payment 100.00; monthly interest, payment and ending balance until PAID OFF in month 14."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Debt Payoff Tracker Spreadsheet - Month-by-Month Projection for One Debt",
+     "url": "https://www.etsy.com/listing/4601942684/household-budget-spreadsheet-cash-flow",
+     "boardServiceId": "1126392625493678388"
+    }
+   }
+  },
+  "post_id": "6ae0ecd52d4e3ce4bcb1137b",
+  "dueAt": "2026-11-01T19:18:00.000Z",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "asset": true,
+   "status": true,
+   "alt": true,
+   "image_source": true
+  },
+  "alt_readback": null
  },
  {
   "key": "q17-4601917327-r09",
   "file": "pins/pin-q17-4601917327-r09-1000x1500.png",
-  "sha256": "aaff05100d19c9a3fae0e4513cdc82d15c312019af2d66f60021544418d94dcc"
+  "sha256": "aaff05100d19c9a3fae0e4513cdc82d15c312019af2d66f60021544418d94dcc",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q17-4601917327-r09-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Freelance budget tracker for uneven pay: type the actual amount when a payment comes in short and the period's closing balance and the next period's opening update right away. Every payment is sorted by date with a running balance. Excel desktop, no macros. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q17-4601917327-r09-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed When a payment comes in short, see it right away. It shows the listing photo: Example: entering a side-income actual of 60.00 instead of the planned 220.00 lowers period 1's closing from 510.00 to 350.00 and period 2's from 1,010.00 to 850.00."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Freelance Budget Tracker - See How a Short Payment Changes the Next Period",
+     "url": "https://www.etsy.com/listing/4601917327/irregular-income-budget-spreadsheet",
+     "boardServiceId": "1126392625493678388"
+    }
+   }
+  }
  },
  {
   "key": "q18-4601941506-r09",
   "file": "pins/pin-q18-4601941506-r09-1000x1500.png",
-  "sha256": "958a173e884753b9334062b784654d9805c0979b2fe9bfe22e11d16d916ba750"
+  "sha256": "958a173e884753b9334062b784654d9805c0979b2fe9bfe22e11d16d916ba750",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q18-4601941506-r09-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Bill planner spreadsheet: type what you actually paid and the still-planned bill reserve drops to match, so you always know what is left to cover before payday. Built for one pay window at a time. Excel desktop, no macros. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q18-4601941506-r09-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Pay a bill, watch the reserve shrink. It shows the listing photo: Example: typing the rent actual of 120.00 on the Events tab lowers the still-planned bill reserve on the Overview from 200.00 to 80.00."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Bill Planner Spreadsheet - Track Bills Paid and Still Due Before Payday",
+     "url": "https://www.etsy.com/listing/4601941506/paycheck-budget-spreadsheet-next-payday",
+     "boardServiceId": "1126392625493678388"
+    }
+   }
+  }
  },
  {
   "key": "q19-4599824992-r08",
   "file": "pins/pin-q19-4599824992-r08-1000x1500.png",
-  "sha256": "fc7520a7481af3b13e95c838a6bd77b0c2c2d0cd92698b091235688093a85073"
+  "sha256": "fc7520a7481af3b13e95c838a6bd77b0c2c2d0cd92698b091235688093a85073",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q19-4599824992-r08-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "An ADHD self-care check-in page that starts with the basics first, paired with a fill-in dopamine menu. Print it, keep it where you will see it and use it on hard days. Blank and undated, US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q19-4599824992-r08-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Check the basics before you blame your brain. It shows the listing photo: Detail of the Self-care check-in page: check the basics first. Example handwriting added."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Self-Care Check-In Printable - Check the Basics First",
+     "url": "https://www.etsy.com/listing/4599824992/dopamine-menu-printable-adhd-dopamine",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  },
  {
   "key": "q20-4599825810-r07",
   "file": "pins/pin-q20-4599825810-r07-1000x1500.png",
-  "sha256": "53dcfbbbfb075b8beea59f4283d76f5dc9eded0ba767760754e9708d18ac845c"
+  "sha256": "53dcfbbbfb075b8beea59f4283d76f5dc9eded0ba767760754e9708d18ac845c",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q20-4599825810-r07-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "A Reset day page for low-battery days, in an undated ADHD daily planner printable. Three pages for three kinds of day: a focus page for normal days, a Reset page for low-battery days and loose time blocks. Start any day; miss a day and nothing breaks. US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q20-4599825810-r07-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed A planner page for the days you can't. It shows the listing photo: The same part of the Reset day page page twice: blank as downloaded, and with example handwriting added to show use."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Reset Day Printable - A Daily Planner Page for Low-Battery Days",
+     "url": "https://www.etsy.com/listing/4599825810/undated-daily-planner-printable-adhd",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  },
  {
   "key": "q21-4599825672-r08",
   "file": "pins/pin-q21-4599825672-r08-1000x1500.png",
-  "sha256": "454614f15116ea6450935d9c00839c81e14b7fb4c872934928872616fa0d8f7c"
+  "sha256": "454614f15116ea6450935d9c00839c81e14b7fb4c872934928872616fa0d8f7c",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q21-4599825672-r08-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "A task breakdown worksheet for ADHD: write the big scary thing at the top and shrink it into rows of 2-minute steps until the first one is almost silly. Paired with a full-page brain dump. Blank and undated, US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q21-4599825672-r08-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Shrink the big scary task into 2-minute steps. It shows the listing photo: Detail of the Make it small page: shrink the big scary thing. Example handwriting added."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Task Breakdown Worksheet for ADHD - Make Big Tasks Small in 2-Minute Steps",
+     "url": "https://www.etsy.com/listing/4599825672/adhd-brain-dump-printable-brain-dump",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  },
  {
   "key": "q22-4599801275-r08",
   "file": "pins/pin-q22-4599801275-r08-1000x1500.png",
-  "sha256": "fb61b00051665a5b9aaeb2ac69883acd0988d56b31ce223857be055101404a28"
+  "sha256": "fb61b00051665a5b9aaeb2ac69883acd0988d56b31ce223857be055101404a28",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q22-4599801275-r08-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "An ADHD routine builder printable: start each routine on an anchor like after coffee instead of a clock time, so it fits the day you actually have. Paired with a monthly habit tracker for 3 to 8 tiny habits. Undated, US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q22-4599801275-r08-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Routines that start on an anchor, not a clock. It shows the listing photo: Detail of the Routine builder page: routines that start on an anchor. Example handwriting added."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Routine Builder Printable - Anchor Routines to What You Already Do",
+     "url": "https://www.etsy.com/listing/4599801275/adhd-habit-tracker-printable-monthly",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  },
  {
   "key": "q23-4599801121-r06",
   "file": "pins/pin-q23-4599801121-r06-1000x1500.png",
-  "sha256": "689e30bf56c1e30f44922e37efd62051ac6fe6ff9d62fe8db60a3612f33f9292"
+  "sha256": "689e30bf56c1e30f44922e37efd62051ac6fe6ff9d62fe8db60a3612f33f9292",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q23-4599801121-r06-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "A weekly review template for ADHD brains: 15 minutes to answer what worked and what drained you, so next week's plan is kinder. Paired with an undated week-at-a-glance game plan with a Top 3. US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q23-4599801121-r06-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Review the week kindly in 15 minutes. It shows the listing photo: Close-up of the blank Weekly review page: room to answer: what worked, what drained me, with room for handwriting."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Weekly Review Template Printable for ADHD - A Gentle 15-Minute Check-In",
+     "url": "https://www.etsy.com/listing/4599801121/adhd-weekly-planner-printable-undated",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  },
  {
   "key": "q24-4599825170-r06",
   "file": "pins/pin-q24-4599825170-r06-1000x1500.png",
-  "sha256": "1b64db49346145afab9267e98374d1ad688fe678649548bb2f7f0a610eb692da"
+  "sha256": "1b64db49346145afab9267e98374d1ad688fe678649548bb2f7f0a610eb692da",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q24-4599825170-r06-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "An ADHD daily to-do page where the basics count: check off water, meds, food, movement, outside and rest beside a loose hourly plan. Top 3 and a reward column on every task. Undated, US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q24-4599825170-r06-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Water, meds, food: the basics count too. It shows the listing photo: Close-up of the blank Today's focus page page: daily basics and an hourly plan, with room for handwriting."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Daily To Do List with a Daily Basics Checklist - Water, Meds, Food, Move",
+     "url": "https://www.etsy.com/listing/4599825170/adhd-to-do-list-printable-daily-focus",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  },
  {
   "key": "q25-4598982254-r09",
   "file": "pins/pin-q25-4598982254-r09-1000x1500.png",
-  "sha256": "ab8a2b6a7fd9efa3ea08a76f52b0d0417b96baa5f4ede88138032546715a7073"
+  "sha256": "ab8a2b6a7fd9efa3ea08a76f52b0d0417b96baa5f4ede88138032546715a7073",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q25-4598982254-r09-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Etsy taxes without the January scramble: log expenses by date, vendor and category and the Schedule C line fills in by formula, inside an Etsy bookkeeping spreadsheet that also shows true profit per order and month. Not tax advice; check with a tax professional. Excel + Google Sheets. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q25-4598982254-r09-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Expenses sorted to Schedule C lines as you go. It shows the listing photo: Expenses tab with fictional entries \u2014 date, vendor, description, category, the Schedule C line filled in by formula, amount and deductible amount \u2014 noted as a starting map, not tax advice."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Etsy Taxes Made Easier - Expense Tracker Mapped to Schedule C Lines",
+     "url": "https://www.etsy.com/listing/4598982254/etsy-seller-profit-tracker-schedule-c",
+     "boardServiceId": "1126392625493661743"
+    }
+   }
+  }
  },
  {
   "key": "q26-4598958139-r08",
   "file": "pins/pin-q26-4598958139-r08-1000x1500.png",
-  "sha256": "857a70f129e9c5ba4514dd81662d4973331a799d5dbf81909a10e88445fb9bc1"
+  "sha256": "857a70f129e9c5ba4514dd81662d4973331a799d5dbf81909a10e88445fb9bc1",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q26-4598958139-r08-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "Etsy fees explained in a one-tab calculator: each order shows the transaction fee, payment processing fee, listing fee and Offsite Ads fee separately, then the total and your true profit. The five fee rates are editable if Etsy changes them. Excel + Google Sheets. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q26-4598958139-r08-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Every Etsy fee, broken out order by order. It shows the listing photo: Close-up of the fee columns for ten fictional orders: transaction fee, processing fee, listing fee, Offsite Ads fee and total Etsy fees per order."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "Etsy Fees Explained - Transaction, Processing, Listing and Offsite Ads per Order",
+     "url": "https://www.etsy.com/listing/4598958139/etsy-fee-profit-calculator-offsite-ads",
+     "boardServiceId": "1126392625493661743"
+    }
+   }
+  }
  },
  {
   "key": "q27-4598958151-r09",
   "file": "pins/pin-q27-4598958151-r09-1000x1500.png",
-  "sha256": "e4b166b492088d465204f050ad27b2e92549122a91e43a4ceb7b8b5d341b119a"
+  "sha256": "e4b166b492088d465204f050ad27b2e92549122a91e43a4ceb7b8b5d341b119a",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q27-4598958151-r09-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "KDP paperback pricing sheet: see the printing cost, the breakeven list price and the price you need for a $1, $2 or $3 royalty, plus royalty at common list prices. Part of a KDP royalty calculator bundle for ebooks and paperbacks. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q27-4598958151-r09-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed Price your paperback from the printing cost up. It shows the listing photo: The Paperback Pricing sheet as shipped: printing cost, breakeven list price, prices for $1, $2 and $3 royalty, and royalty at $9.99, $12.99 and $14.99 for 24 to 800 pages, with losses in red (-$0.41 at 600 pages and $12.99)."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "KDP Paperback Pricing Calculator - Printing Cost, Breakeven and Royalty Targets",
+     "url": "https://www.etsy.com/listing/4598958151/kdp-royalty-calculator-spreadsheet-ebook",
+     "boardServiceId": "1126392625493661745"
+    }
+   }
+  }
  },
  {
   "key": "q28-4599081750-r06",
   "file": "pins/pin-q28-4599081750-r06-1000x1500.png",
-  "sha256": "29bcc05724625f6f61c80c9897690fb5d72fbe4b48b13f03c71a6f293e96d372"
+  "sha256": "29bcc05724625f6f61c80c9897690fb5d72fbe4b48b13f03c71a6f293e96d372",
+  "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q28-4599081750-r06-1000x1500.png",
+  "payload": {
+   "channelId": "6ae0eadc2f1f5ed648ee3159",
+   "schedulingType": "automatic",
+   "mode": "addToQueue",
+   "text": "A monthly review page from an undated ADHD planner for adults: your biggest win, the hardest thing, which systems worked, a habits check-in and keep, drop, start for next month. Part of a 36-page printable planner with a dopamine menu and habit tracker. US Letter + A4 PDF. Instant download from Pencil & Penny on Etsy.",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/seancope357/pencilandpenny-pins/main/pins/pin-q28-4599081750-r06-1000x1500.png",
+      "metadata": {
+       "altText": "Pin headed End the month with your biggest win. It shows the listing photo: Close-up of the blank Monthly review page: biggest win, hardest thing, which systems worked, habits check-in, keep drop start, next month's intention."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "pinterest": {
+     "title": "ADHD Monthly Review Printable - Biggest Win, Hardest Thing, Keep Drop Start",
+     "url": "https://www.etsy.com/listing/4599081750/adhd-planner-for-adults-undated-daily",
+     "boardServiceId": "1126392625493661740"
+    }
+   }
+  }
  }
 ]
