@@ -136,7 +136,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q10-4599825170-r09",
@@ -180,7 +181,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q11-4598982254-r07",
@@ -224,7 +226,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q12-4598958139-r09",
@@ -268,7 +271,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q13-4598958151-r07",
@@ -312,7 +316,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q14-4599081750-r03",
@@ -356,7 +361,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q15-4602442715-r12",
@@ -400,7 +406,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q16-4601942684-r08",
@@ -444,7 +451,8 @@
   },
   "alt_readback": null,
   "status": "scheduled",
-  "sentAt": null
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q17-4601917327-r09",
@@ -485,7 +493,9 @@
    "status": true
   },
   "status": "scheduled",
-  "dueAt": "2026-11-02T19:18:00.000Z"
+  "dueAt": "2026-11-02T19:18:00.000Z",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q18-4601941506-r09",
@@ -526,7 +536,9 @@
    "status": true
   },
   "status": "scheduled",
-  "dueAt": "2026-11-03T02:27:00.000Z"
+  "dueAt": "2026-11-03T02:27:00.000Z",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q19-4599824992-r08",
