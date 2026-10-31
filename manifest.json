@@ -135,9 +135,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-10-28T19:27:02.357Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842416084"
  },
  {
   "key": "q10-4599825170-r09",
@@ -180,9 +180,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-10-29T18:18:04.263Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842503052"
  },
  {
   "key": "q11-4598982254-r07",
@@ -225,9 +225,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-10-30T01:59:01.238Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842533547"
  },
  {
   "key": "q12-4598958139-r09",
@@ -270,9 +270,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-10-30T18:18:01.776Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842591600"
  },
  {
   "key": "q13-4598958151-r07",
@@ -315,9 +315,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-10-30T21:01:49.169Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842602775"
  },
  {
   "key": "q14-4599081750-r03",
@@ -567,7 +567,21 @@
      "boardServiceId": "1126392625493661740"
     }
    }
-  }
+  },
+  "post_id": "6ae4a3169394ea34c118dbf1",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "image_source": true,
+   "alt": true,
+   "status": true
+  },
+  "status": "scheduled",
+  "dueAt": "2026-11-03T19:18:00.000Z",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q20-4599825810-r07",
@@ -596,7 +610,11 @@
      "boardServiceId": "1126392625493661740"
     }
    }
-  }
+  },
+  "post_id": "6ae4a318df85d8ab2f39ecb6",
+  "status": "scheduled",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q21-4599825672-r08",
@@ -625,7 +643,19 @@
      "boardServiceId": "1126392625493661740"
     }
    }
-  }
+  },
+  "post_id": "6ae5f4841ee172cd6da5134e",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "image_source": true,
+   "alt": true,
+   "status": true
+  },
+  "status": "scheduled",
+  "dueAt": "2026-11-04T19:18:00.000Z"
  },
  {
   "key": "q22-4599801275-r08",
@@ -654,7 +684,19 @@
      "boardServiceId": "1126392625493661740"
     }
    }
-  }
+  },
+  "post_id": "6ae5f48637c1acd2a0b11ab2",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "image_source": true,
+   "alt": true,
+   "status": true
+  },
+  "status": "scheduled",
+  "dueAt": "2026-11-04T20:27:00.000Z"
  },
  {
   "key": "q23-4599801121-r06",
@@ -683,7 +725,19 @@
      "boardServiceId": "1126392625493661740"
     }
    }
-  }
+  },
+  "post_id": "6ae5f48737c1acd2a0b11b39",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "image_source": true,
+   "alt": true,
+   "status": true
+  },
+  "status": "scheduled",
+  "dueAt": "2026-11-05T19:18:00.000Z"
  },
  {
   "key": "q24-4599825170-r06",
