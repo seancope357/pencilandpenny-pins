@@ -360,9 +360,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-10-31T18:18:02.414Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842684909"
  },
  {
   "key": "q15-4602442715-r12",
@@ -405,9 +405,9 @@
    "image_source": true
   },
   "alt_readback": null,
-  "status": "scheduled",
-  "sentAt": null,
-  "externalLink": null
+  "status": "sent",
+  "sentAt": "2026-11-01T04:46:01.745Z",
+  "externalLink": "https://www.pinterest.com/pin/1126392556842722323"
  },
  {
   "key": "q16-4601942684-r08",
@@ -655,7 +655,9 @@
    "status": true
   },
   "status": "scheduled",
-  "dueAt": "2026-11-04T19:18:00.000Z"
+  "dueAt": "2026-11-04T19:18:00.000Z",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q22-4599801275-r08",
@@ -696,7 +698,9 @@
    "status": true
   },
   "status": "scheduled",
-  "dueAt": "2026-11-04T20:27:00.000Z"
+  "dueAt": "2026-11-04T20:27:00.000Z",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q23-4599801121-r06",
@@ -737,7 +741,9 @@
    "status": true
   },
   "status": "scheduled",
-  "dueAt": "2026-11-05T19:18:00.000Z"
+  "dueAt": "2026-11-05T19:18:00.000Z",
+  "sentAt": null,
+  "externalLink": null
  },
  {
   "key": "q24-4599825170-r06",
@@ -766,7 +772,19 @@
      "boardServiceId": "1126392625493661740"
     }
    }
-  }
+  },
+  "post_id": "6ae75414cd0d0de2bf80c7cb",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "image_source": true,
+   "alt": true,
+   "status": true
+  },
+  "status": "scheduled",
+  "dueAt": "2026-11-06T02:59:00.000Z"
  },
  {
   "key": "q25-4598982254-r09",
@@ -795,7 +813,19 @@
      "boardServiceId": "1126392625493661743"
     }
    }
-  }
+  },
+  "post_id": "6ae75415cd0d0de2bf80ca71",
+  "readback": {
+   "text": true,
+   "title": true,
+   "url": true,
+   "board": true,
+   "image_source": true,
+   "alt": true,
+   "status": true
+  },
+  "status": "scheduled",
+  "dueAt": "2026-11-06T19:18:00.000Z"
  },
  {
   "key": "q26-4598958139-r08",
